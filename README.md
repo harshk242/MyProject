@@ -30,6 +30,9 @@ Follwoing are the methods implemented in imitations.py file
 3. remove_straight
 
 ### Dagger implementation
+1. I implemented **train_dagger** function in training.py file
+2. It lets you switch from trained policy to human driving seamlessly
+3. The data only gets recorded when human takes over
 
 ### Others
 1. Modified record_imitations function to record observations and actions on demand
